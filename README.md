@@ -28,8 +28,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/stremvik/Checklists/blob/main/Checklist_%20shopping%20cart%20and%20payment%20Demowebshop.xlsx) 
-- [Checklists](https://github.com/stremvik/Checklists/blob/main/Check%20list%20for%20mobile%20app%20TO-DO-MVP.xlsx)
+- [Checklists](https://github.com/stremvik/Checklists/blob/main/Checklist_%20shopping%20cart%20and%20payment%20Demowebshop.xlsx https://github.com/stremvik/Checklists/blob/main/Check%20list%20for%20mobile%20app%20TO-DO-MVP.xlsx) 
 - [Test Plans and Test-Cases](https://github.com/stremvik/test-cases)
 - [Bug-Reports](https://github.com/stremvik/bug-reports)
 - [SQL Queries](https://github.com/stremvik/SQL)
