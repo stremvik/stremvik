@@ -28,7 +28,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/stremvik/checklist)
+- [Checklists](https://github.com/stremvik/Checklists/blob/main/Checklist_%20shopping%20cart%20and%20payment%20Demowebshop.xlsx)
 - [Test-Suites and Test-Cases](https://github.com/stremvik/test-cases)
 - [Bug-Reports](https://github.com/stremvik/bug-reports)
 - [SQL Queries](https://github.com/stremvik/SQL)
