@@ -1,5 +1,5 @@
 [![Header](/)
-## I'm a beginner tester. 
+## I'm QA Engineer (a beginner) 
 ## Open to work 
 ## My CV
 [Link to my CV()
