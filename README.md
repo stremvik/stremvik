@@ -30,7 +30,7 @@
 
 - [Checklists](https://github.com/stremvik/Checklists)
 - [Test Plans and Test-Cases](https://github.com/stremvik/Test_Plans_and_Test_Cases/blob/main/%D0%A2%D0%B5%D1%81%D1%82-%20%D0%BF%D0%BB%D0%B0%D0%BD%20http___demowebshop.tricentis.com_.xlsx)
-- [Bug-Reports](https://github.com/stremvik/bug-reports)
+- [Bug-Reports](https://github.com/stremvik/Bug_reports)
 - [SQL Queries](https://github.com/stremvik/SQL)
 - [Postman Collections](https://github.com/stremvik/postman)
 
