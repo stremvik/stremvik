@@ -34,6 +34,11 @@
 - [SQL Queries](https://github.com/stremvik/SQL)
 - [Postman Collections](https://github.com/stremvik/postman)
 
+### Languages
+- English B1 (Intermediate)
+- Belarusian
+- Russian
+ 
 ### Follow Me
 
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://https://www.instagram.com/kryuvik/?r=nametag)
