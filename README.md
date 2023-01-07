@@ -5,7 +5,7 @@
 [Link to my CV()
 
 
-### Language and Tools
+### Technologies and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/zephyr_scale-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
