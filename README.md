@@ -1,11 +1,15 @@
 [![Header](/)
-## I'm a beginner tester. 
+## I am a beginner QA Engineer 
 ## Open to work 
 ## My CV
 [Link to my CV()
 
 
+<<<<<<< HEAD
 ### Language and Tools
+=======
+### Technologies and Tools
+>>>>>>> 137a92337fcd84740baee2b5e64f44826098217d
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/zephyr_scale-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
@@ -28,12 +32,17 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/stremvik/checklist)
-- [Test-Suites and Test-Cases](https://github.com/stremvik/test-cases)
-- [Bug-Reports](https://github.com/stremvik/bug-reports)
+- [Checklists](https://github.com/stremvik/Checklists)
+- [Test Plans and Test-Cases](https://github.com/stremvik/Test_Plans_and_Test_Cases)
+- [Bug-Reports](https://github.com/stremvik/Bug_reports)
 - [SQL Queries](https://github.com/stremvik/SQL)
 - [Postman Collections](https://github.com/stremvik/postman)
 
+### Languages
+- English B1 (Intermediate)
+- Belarusian
+- Russian
+ 
 ### Follow Me
 
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://https://www.instagram.com/kryuvik/?r=nametag)
