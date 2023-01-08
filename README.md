@@ -1,4 +1,4 @@
-!Header(https://github.com/stremvik/stremvik/blob/main/assets/My%20Logo.png)
+![Header](https://github.com/stremvik/stremvik/blob/main/assets/My%20Logo.png)
 ## I am a beginner QA Engineer 
 ## Open to work 
 ## My CV
