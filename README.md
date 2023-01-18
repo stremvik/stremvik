@@ -8,7 +8,9 @@
 ### Technologies and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/zephyr_scale-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/zephyr_scale-090909?style=for-the-badge&logo=zephyr_scale&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=Qase&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=Youtrack&logoColor=8cc4d7)
 
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
