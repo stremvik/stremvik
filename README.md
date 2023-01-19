@@ -2,7 +2,7 @@
 ## I am a beginner QA Engineer 
 ## Open to work 
 ## My CV
-[Link to my CV()
+![Header](https://drive.google.com/file/d/1Nz4B0ngXZBjZn0_Yp_CRnQX_wsbFL1ba/view?usp=share_link) 
 
 
 ### Technologies and Tools
