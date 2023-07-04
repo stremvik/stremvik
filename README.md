@@ -1,6 +1,6 @@
 ![Header](https://github.com/stremvik/stremvik/blob/main/assets/Logo.png)
-## I am a beginner QA Engineer 
-## Open to work 
+## I am a Software QA Engineer 
+
 ## [My CV](https://drive.google.com/file/d/1Nz4B0ngXZBjZn0_Yp_CRnQX_wsbFL1ba/view?usp=share_link)
 
 
